@@ -1,1 +1,1 @@
-This is a Test from [Alx][alxethiopia.com]
+This is a Test from [Alx](alxethiopia.com)
